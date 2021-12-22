@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1637845260 source:e:\debug project\c\des_test\des.c
+	<string.h>
+	"des.h"
+
+1637845220 e:\debug project\c\des_test\des.h
+	<stddef.h>
+	<stdint.h>
+	"des_alt.h"
+
+1637844584 source:e:\debug project\c\des_test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+	"des.h"
+
